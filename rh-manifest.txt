@@ -1,0 +1,4 @@
+*github.com/wcheang/gomodifytagsgithub.com/wcheang/gomodifytags:v0.0.0-0.20190211103906-ac135d856a12
+github.com/fatih/camelcasegithub.com/wcheang/gomodifytags:v0.0.0-0.20190211103906-ac135d856a12/github.com/fatih/camelcase:v1.0.0
+github.com/fatih/structtaggithub.com/wcheang/gomodifytags:v0.0.0-0.20190211103906-ac135d856a12/github.com/fatih/structtag:v0.2.0
+golang.org/x/toolsgithub.com/wcheang/gomodifytags:v0.0.0-0.20190211103906-ac135d856a12/golang.org/x/tools:v0.0.0-0.20190211183033-657755b003d8

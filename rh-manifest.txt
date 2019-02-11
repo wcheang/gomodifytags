@@ -1,0 +1,20 @@
+*github.com/wcheang/gomodifytags
+        {- if .TopPkg -}
+        {.TopPkg}:{or .TopVer "?"}/
+        {- end -}
+        {.Pkg}:{or .Ver "?"}
+github.com/fatih/camelcase
+        {- if .TopPkg -}
+        {.TopPkg}:{or .TopVer "?"}/
+        {- end -}
+        {.Pkg}:{or .Ver "?"}
+github.com/fatih/structtag
+        {- if .TopPkg -}
+        {.TopPkg}:{or .TopVer "?"}/
+        {- end -}
+        {.Pkg}:{or .Ver "?"}
+golang.org/x/tools
+        {- if .TopPkg -}
+        {.TopPkg}:{or .TopVer "?"}/
+        {- end -}
+        {.Pkg}:{or .Ver "?"}
